@@ -72,6 +72,10 @@ body {
   .intro {
     margin: 0 0 120px;
   }
+
+  figure {
+    text-align: center;
+  }
   
   .subheading {
     margin: 0 0 56px;
